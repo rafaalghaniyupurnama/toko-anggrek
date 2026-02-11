@@ -1,0 +1,11 @@
+nama,kategori,harga,stok,foto,status,caption
+Bulan Merah,bulan,150000,10,website_anggrek\bulanmerah.jpg,Tersedia,Image by ChatGPT
+Bulan Putih,bulan,150000,10,website_anggrek\bulanputih.jpg,Habis,Image by ChatGPT
+Dendrobium Merah Muda,dendrobium,75000,5,website_anggrek\dendrobiummerahmuda.jpg,Tersedia,Image by ChatGPT
+Dendrobium Kuning Muda,dendrobium,75000,5,website_anggrek\dendrobiumkuning.jpg,Tersedia,Image by ChatGPT
+Dendrobium Garis Zebra,dendrobium,75000,5,website_anggrek\dendrobiumgaris.jpg,Habis,Image by ChatGPT
+Cattleya Kuning,cattleya,300000,3,website_anggrek\cattleyakuning.jpg,Tersedia,Image by ChatGPT
+Onsidium Merah,onsidium,200000,2,website_anggrek\onsidiummerah.jpg,Tersedia,Image by ChatGPT
+Onsidium Cokelat,onsidium,200000,2,website_anggrek\onsidiumcokelat.jpg,Tersedia,Image by ChatGPT
+Vanda Ungu,vanda,450000,2,website_anggrek\vandaungu.jpg,Habis,Image by ChatGPT
+Vanda Merah,vanda,450000,2,website_anggrek\vandamerah.jpg,Tersedia,Image by ChatGPT
